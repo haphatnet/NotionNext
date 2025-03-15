@@ -10,8 +10,8 @@ const CONFIG = {
 
   // 英雄区块导航
   STARTER_HERO_ENABLE: true, // 开启英雄区
-  STARTER_HERO_TITLE_1: '我们通过技术为品牌和公司创造数字体验', // 英雄区文字
-  STARTER_HERO_TITLE_2: '< TIAO.MA >', // 英雄区文字
+  STARTER_HERO_TITLE_1: '通过技术为品牌和公司创造数字体验', // 英雄区文字
+  STARTER_HERO_TITLE_2: '数字解决方案服务商', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: '开始体验', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
