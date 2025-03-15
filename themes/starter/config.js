@@ -14,8 +14,7 @@ const CONFIG = {
   STARTER_HERO_TITLE_2: '数字解决方案服务商', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   // STARTER_HERO_BUTTON_1_TEXT: '开始体验', // 英雄区按钮
-  // STARTER_HERO_BUTTON_1_URL:
-    '#', // 英雄区按钮
+  // STARTER_HERO_BUTTON_1_URL: '#', // 英雄区按钮
   // STARTER_HERO_BUTTON_2_TEXT: 'Github', // 英雄区按钮
   // STARTER_HERO_BUTTON_2_URL: 'https://github.com/', // 英雄区按钮
   // STARTER_HERO_BUTTON_2_ICON: '/images/starter/github.svg', // 英雄区按钮2的图标，不需要则留空
