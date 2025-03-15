@@ -294,7 +294,7 @@ const CONFIG = {
   STARTER_FOOTER_SLOGAN: '我们通过技术为品牌和公司创造数字体验。',
 
   // 页脚三列菜单组
-  STARTER_FOOTER_LINK_GROUP: [
+  // STARTER_FOOTER_LINK_GROUP: [
     {
       TITLE: '关于我们',
       LINK_GROUP: [
