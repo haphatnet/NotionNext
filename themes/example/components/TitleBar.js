@@ -29,9 +29,9 @@ export default function TitleBar(props) {
             )}
             {title}
           </h1>
-          <p className='title-2 relative leading-loose text-gray-dark z-10'>
-            {description}
-          </p>
+          // <p className='title-2 relative leading-loose text-gray-dark z-10'>
+          //   {description}
+          // </p>
           {TITLE_BG && (
             <>
               {/* eslint-disable-next-line @next/next/no-img-element */}
