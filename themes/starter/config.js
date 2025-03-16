@@ -27,8 +27,8 @@ const CONFIG = {
   // STARTER_NAV_BUTTON_1_TEXT: 'Sign In',
   // STARTER_NAV_BUTTON_1_URL: '/sign-in',
 
-  STARTER_NAV_BUTTON_2_TEXT: '马上联系',
-  STARTER_NAV_BUTTON_2_URL: 'mailto:hi@haphat.net',
+  // STARTER_NAV_BUTTON_2_TEXT: '马上联系',
+  // STARTER_NAV_BUTTON_2_URL: 'mailto:hi@haphat.net',
 
   // 特性区块
   STARTER_FEATURE_ENABLE: false, // 特性区块开关
