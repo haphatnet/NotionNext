@@ -27,8 +27,8 @@ const CONFIG = {
   // STARTER_NAV_BUTTON_1_TEXT: 'Sign In',
   // STARTER_NAV_BUTTON_1_URL: '/sign-in',
 
-  // STARTER_NAV_BUTTON_2_TEXT: 'Sign Up',
-  // STARTER_NAV_BUTTON_2_URL: '/sign-up',
+  STARTER_NAV_BUTTON_2_TEXT: 'Github',
+  STARTER_NAV_BUTTON_2_URL: 'https://github.com/',
 
   // 特性区块
   STARTER_FEATURE_ENABLE: false, // 特性区块开关
