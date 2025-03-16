@@ -16,13 +16,13 @@ export const Header = props => {
       //     className='logo py-6 w-full text-center md:text-left md:w-auto text-gray-dark no-underline flex justify-center items-center'>
       //     {siteConfig('TITLE')}
       //   </Link>
-        <div className='w-full md:w-auto text-center md:text-right'>
-          {/* 右侧文字 */}
-        </div>
+      //   <div className='w-full md:w-auto text-center md:text-right'>
+      //     {/* 右侧文字 */}
+      //   </div>
       // </div>
 
-      {/* 菜单 */}
-      <MenuList {...props} />
+      // {/* 菜单 */}
+      // <MenuList {...props} />
     </header>
   )
 }
